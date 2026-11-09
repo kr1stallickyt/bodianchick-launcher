@@ -1,8 +1,8 @@
 {
   "keys": {
-    "c2d3accd37e0d2085083687456e4fb488b01bafacf61ed419985388b4c2997c8": { "banned": true, "name": "кристаллик" },
-    "2561cdb9f7dfc53d08047bbc43ff10cf15b1a56cc3636814c77566c24fdb2968": { "banned": true, "name": "бодянчик" },
-    "233dbd6c95e7fbc65c3e5893ca6db8a3f7a3ee708fd5b09366bd809fc22fdb78": { "banned": true, "name": "сишка" },
-    "f1c070c707891c3791834f7f4da7280a42d7d14e596af9ede5c0d047be0817f3": { "banned": true, "name": "кирилл лайв" }
+    "c2d3accd37e0d2085083687456e4fb488b01bafacf61ed419985388b4c2997c8": { "banned": false, "name": "кристаллик" },
+    "2561cdb9f7dfc53d08047bbc43ff10cf15b1a56cc3636814c77566c24fdb2968": { "banned": false, "name": "бодянчик" },
+    "233dbd6c95e7fbc65c3e5893ca6db8a3f7a3ee708fd5b09366bd809fc22fdb78": { "banned": false, "name": "сишка" },
+    "f1c070c707891c3791834f7f4da7280a42d7d14e596af9ede5c0d047be0817f3": { "banned": false, "name": "кирилл лайв" }
   }
 }
